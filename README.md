@@ -21,4 +21,4 @@ The scripts write two PDF figures and compact summary/table files under `figures
 
 The row tables contain generated-prompt identifiers and token positions, not prompt text. No model weights, credentials, or raw logits are included. The included data regenerate the reported analyses from those saved measurements; they do not rerun model inference.
 
-No reuse license has been assigned in this package. Add the authors' chosen license before public release.
+
